@@ -1,0 +1,7 @@
+npm init -y //Iniciamos proyecto json
+npm run index.js // Correr en terminal el archivo
+
+en el package.json
+
+en scripts se agrega
+"start" : "index.js" 
