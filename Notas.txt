@@ -5,3 +5,12 @@ en el package.json
 
 en scripts se agrega
 "start" : "index.js" 
+
+declaracion de objetos 
+
+const nameOnj = {
+    atributos 
+    atr1 : valor ;
+}
+
+acceso nameOnj.atr1
