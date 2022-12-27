@@ -12,3 +12,4 @@ const bookFav = {
     nombre: "perfume",
     año: 2022,
 };
+/////
